@@ -1,9 +1,6 @@
 # intel-data-processor
 
-
-חד לא יודע מה הוא העתיק אז זה לא משנה מה אני יכתוב 
-אין לי מה לכתוב פה אז תהנו בקריאה 
-והיות ואף א
-
-
-טוב ביי *
+## It doesn't really matter what is written here
+## The idea was to practice Git GitHub and conflicts
+## So the code is less relevant
+# Enjoy
